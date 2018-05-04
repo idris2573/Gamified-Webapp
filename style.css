@@ -1,0 +1,36 @@
+body, .content{
+  background-color:#37495D;
+}
+
+.nav{
+  background-color:#3E85B3;
+}
+
+.logo{
+  max-width: 100px !important;
+}
+
+.profile-img{
+  width:50px !important;
+  height:50px !important;
+  background-color: white;
+  display: inline-block;
+}
+
+.font-weight-500{
+  font-weight: 500;
+}
+
+.sidebar{
+  background-color: #2F3E51;
+  height: 1000px;
+  max-width: 150px !important;
+}
+
+.sidebar a{
+  color: white;
+}
+
+.sidebar-icon{
+  max-width:45px !important;
+}
