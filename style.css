@@ -1,6 +1,6 @@
 body{
-  background-color:#37495D;
-  overflow-x: hidden;
+  /* background-color:#37495D; */
+  /* overflow-x: hidden; */
 }
 
 .content{
@@ -72,6 +72,10 @@ body{
   max-height: 220px;
 }
 
+.row{
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
 
 /**********************************RESPONSIVE*************************************************/
 
